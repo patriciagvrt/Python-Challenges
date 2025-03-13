@@ -1,5 +1,6 @@
 # Extract first and last name from the user's full name  
 # The user inputs their full name, and the program returns their first and last name.  
+# Only use strings
 
 def name(x):
     print(f'Nice to meet you, {x}!')
