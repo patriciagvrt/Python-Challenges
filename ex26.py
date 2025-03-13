@@ -3,7 +3,6 @@
 def letter_A(x):
     print(f'The letter A appears {x.count("A")} times in the phrase')
     print(f'The first time the letter A appear was in the {x.find("A") + 1} positon')
-    tam = len(x) +1
     print(f'The last time the letter A appear was in the {x.rfind("A")+1} postion')
 # get user input
 phrase = str(input('Type a phrase: ')).strip().upper()
