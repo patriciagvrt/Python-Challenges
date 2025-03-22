@@ -21,7 +21,7 @@ def final_price(normal_price, payment_method):
     else:
         print("Invalid choice! Please enter 1, 2, 3, or 4.")
 
-# Get user input
+# Get user input   
 normal_price = float(input("Type the price of the product: $ "))
 payment_method = input(
     "Choose a payment method:\n"
