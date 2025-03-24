@@ -9,7 +9,7 @@ def greater_value():
     n2 = int(input('Type the second number: '))
     if n1 > n2:
         print('The first value is greater')
-    elif n2>n1:
+    elif n2 > n1:
         print('The second value is greater')
     else:
         print(f'The two values are equal')
