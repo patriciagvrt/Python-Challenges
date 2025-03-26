@@ -1,5 +1,5 @@
 # Redo CHALLENGE 035 about triangles, adding the feature to display the type of triangle formed:
-#
+# Use functions
 # - Equilateral: all sides are equal
 # - Isosceles: two sides are equal
 # - Scalene: all sides are different
@@ -27,3 +27,7 @@ z = float(input("Type the third line segment: "))
 
 # Call function
 triangle_form(x, y, z)
+    
+
+
+
