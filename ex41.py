@@ -27,3 +27,6 @@ def categorize_athlete():
 
 # Call the function
 categorize_athlete()
+
+
+
