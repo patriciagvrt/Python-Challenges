@@ -28,3 +28,6 @@ z = float(input("Type the third line segment: "))
 # Call function
 triangle_form(x, y, z)
    
+
+
+   
