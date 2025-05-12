@@ -21,3 +21,5 @@ def approve_loan():
 
 # Run the function
 approve_loan()
+
+
