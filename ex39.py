@@ -22,3 +22,6 @@ def military_service():
         print(f"You are {age} years old. It has already been {age - 18} year(s) since you should have enlisted.")
 
 military_service()
+
+
+
