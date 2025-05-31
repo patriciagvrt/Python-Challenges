@@ -8,5 +8,3 @@ def fireworks():
     print('BOOM!')
 fireworks()
 
-
-
