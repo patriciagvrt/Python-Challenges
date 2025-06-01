@@ -8,3 +8,5 @@ def sum_odd_three():
             s += i
     print(f'The sum of all odd numbers that are multiples of 3 between 1 and 500 is: {s}')
 sum_odd_three()
+
+
