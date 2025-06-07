@@ -7,5 +7,3 @@ def even_number():
         print(f'{i}', end=' ')
     
 even_number()
-
-
