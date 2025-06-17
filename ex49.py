@@ -7,3 +7,5 @@ def table_number():
         sleep(0.2)
         print(f'{n} x {i} = {n*i}')
 table_number()
+
+
