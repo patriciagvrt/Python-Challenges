@@ -8,4 +8,3 @@ def table_number():
         print(f'{n} x {i} = {n*i}')
 table_number()
 
-
