@@ -14,3 +14,4 @@ def prime_number():
         print(f"\nThe number {n} is not a prime number.")
 
 prime_number()
+
