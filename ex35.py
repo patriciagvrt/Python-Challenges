@@ -18,6 +18,3 @@ x = float(input('Type the first line segment: '))
 y = float(input('Type the second line segment: '))
 z = float(input('Type the third line segment: '))
 triangle_form(x, y, z)
-
-
-
