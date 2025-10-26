@@ -1,6 +1,7 @@
 # Create a program that makes the computer play Rock, Paper, Scissors with you.
 from random import choice
 
+
 def game():
     print("=" * 30)
     print("Let's play Rock, Paper, Scissors!")
