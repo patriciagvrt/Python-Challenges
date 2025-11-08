@@ -9,3 +9,5 @@ def leapyear(x):
         print(f'The year {x} is not a leap year')
 year = int(input('Type a year, type 0 if you want the current year: '))
 leapyear(year)
+
+
