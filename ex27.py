@@ -11,3 +11,5 @@ def name(x):
 # Get user input
 n = str(input('Type your full name: ')).strip()
 name(n)
+
+
