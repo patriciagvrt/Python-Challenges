@@ -12,3 +12,5 @@ def analyze(distance):
 # Get user input
 distance = int(input('What distance did you travel? '))
 analyze(distance)
+
+
