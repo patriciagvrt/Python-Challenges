@@ -3,6 +3,7 @@ from random import choice
 
 
 def game():
+    
     print("=" * 30)
     print("Let's play Rock, Paper, Scissors!")
     print("=" * 30)
@@ -29,8 +30,5 @@ def game():
 
 # Run the game
 game()
-
-
-
 
 
