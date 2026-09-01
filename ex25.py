@@ -4,3 +4,5 @@ def surname(n):
     print(f'Does your name has the surname Smith? {"SMITH" in n}')
 name = str(input('Whats your full name? ')).strip().upper()
 surname(name)
+
+
