@@ -6,3 +6,5 @@ name = str(input('Whats your full name? ')).strip().upper()
 surname(name)
 
 
+
+
