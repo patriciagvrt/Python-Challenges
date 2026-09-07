@@ -13,5 +13,3 @@ def speed_cam(speed):
 speed = int(input('What was the speed of the vehicle? '))
 speed_cam(speed)
 
-
-
