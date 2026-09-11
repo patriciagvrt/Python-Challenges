@@ -2,6 +2,8 @@
 from random import choice
 
 
+
+
 def game():
     
     print("=" * 30)
