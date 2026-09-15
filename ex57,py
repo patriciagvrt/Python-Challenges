@@ -1,0 +1,24 @@
+'''
+def test():
+    c = 1
+    while c < 10:
+        print(c)
+        c += 1
+    print("fim")
+
+test()
+r = 'Yes'
+while r == 'Yes':
+    n = int(input('Write a value: '))
+    r = str(input('Do you want to continue? [Yes/No] ')).strip().capitalize()
+print('The program has ended.')'''
+
+
+def ex57():
+    gender = ""
+    gender = str(input('Enter your gender [M/F]: ')).strip().capitalize()
+    while gender != "M" and gender != "F":
+        print("Invalid input. Please enter 'M' for male or 'F' for female.")    
+        gender = str(input('Enter your gender [M/F]: ')).strip().capitalize()
+    print('Thank you for providing your gender.')
+ex57()
