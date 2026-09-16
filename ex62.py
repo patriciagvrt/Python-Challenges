@@ -9,7 +9,6 @@ def AP():
 
     while terms != 0:
         n = 1
-
         while n <= terms:
             print(first, end=" ")
             first = first + diff
