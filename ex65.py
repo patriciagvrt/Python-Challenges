@@ -26,3 +26,4 @@ while conti == 'yes':
 print (f'You typed {count} numbers and the sum of all of them is {sum_numbers}.')
 print(f'The medium of the numbers is {sum_numbers / count}.')
 print(f'The great number typed was {great} and the small number typed was {small}.')
+
