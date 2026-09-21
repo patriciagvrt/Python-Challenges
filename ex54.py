@@ -19,3 +19,6 @@ def birthdays():
     print(f'There are {minors} minors. And {adults} adults!')
 
 birthdays()
+
+
+
