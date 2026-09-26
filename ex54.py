@@ -20,5 +20,3 @@ def birthdays():
 
 birthdays()
 
-
-
