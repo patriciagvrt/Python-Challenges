@@ -19,3 +19,6 @@ def calculate_weight():
     print(f'The highest value is {highest} the lowest value is {lowest}')
 
 calculate_weight()
+
+
+
