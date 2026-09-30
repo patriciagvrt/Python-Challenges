@@ -30,3 +30,6 @@ else:
     category = "Morbid obesity"
 
 print(f"Your BMI is {bmi:.2f}. Classification: {category}.")
+
+
+
