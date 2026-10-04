@@ -1,3 +1,5 @@
+
+
 # Create a program that reads a phrase and tells whether it is a palindrome,
 # ignoring spaces.
 #
