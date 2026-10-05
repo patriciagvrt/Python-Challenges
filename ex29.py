@@ -1,6 +1,10 @@
 # SPEED CAMERA  
 # Checks if the vehicle exceeded the speed limit and calculates the fine if necessary.  
 
+
+
+
+
 def speed_cam(speed):
     if speed > 80:
         print('Ticket! You exceeded the speed limit of 80 km/h.')
@@ -12,4 +16,6 @@ def speed_cam(speed):
 # Get user input  
 speed = int(input('What was the speed of the vehicle? '))
 speed_cam(speed)
+
+
 

@@ -7,3 +7,5 @@ def letter_A(x):
 # get user input
 phrase = str(input('Type a phrase: ')).strip().upper()
 letter_A(phrase)
+
+

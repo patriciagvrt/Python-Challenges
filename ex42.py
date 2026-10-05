@@ -4,6 +4,9 @@
 # - Isosceles: two sides are equal
 # - Scalene: all sides are different
 
+
+
+
 def triangle_type(a, b, c):
     if a == b == c:
         print("This triangle is an equilateral triangle.")

@@ -18,3 +18,7 @@ def average_grade():
 
 # Call the function
 average_grade()
+
+
+
+
