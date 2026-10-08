@@ -8,3 +8,7 @@ def analyze(x):
 
 num = int(input('Tell me a number, and I will tell you if it is an odd or even number: '))
 analyze(num)
+
+
+
+

@@ -9,3 +9,7 @@ phrase = str(input('Type a phrase: ')).strip().upper()
 letter_A(phrase)
 
 
+
+
+
+
