@@ -3,6 +3,11 @@
 # - 2 for octal
 # - 3 for hexadecimal
 
+
+
+
+
+
 def conversion():
     num = int(input('Enter a decimal number: '))
     choice = int(input('''\nChoose the base for conversion:
